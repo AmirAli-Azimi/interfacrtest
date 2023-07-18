@@ -1,0 +1,15 @@
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.csproj.AssemblyReference.cache
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.AssemblyInfoInputs.cache
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.AssemblyInfo.cs
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.csproj.CoreCompileInputs.cache
+C:\Users\sepehrrayaneh\Desktop\teacher\bin\Debug\net7.0\teacher.exe
+C:\Users\sepehrrayaneh\Desktop\teacher\bin\Debug\net7.0\teacher.deps.json
+C:\Users\sepehrrayaneh\Desktop\teacher\bin\Debug\net7.0\teacher.runtimeconfig.json
+C:\Users\sepehrrayaneh\Desktop\teacher\bin\Debug\net7.0\teacher.dll
+C:\Users\sepehrrayaneh\Desktop\teacher\bin\Debug\net7.0\teacher.pdb
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.dll
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\refint\teacher.dll
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.pdb
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\teacher.genruntimeconfig.cache
+C:\Users\sepehrrayaneh\Desktop\teacher\obj\Debug\net7.0\ref\teacher.dll
